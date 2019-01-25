@@ -18,3 +18,7 @@ TestResults
 [Tt]humbs.db 
 _ReSharper.*
 *.resharper
+ArtOfUnitTesting2ndEd.Samples/.vs/ArtOfUnitTesting2ndEd.Samples/v15/Server/sqlite3/storage.ide-wal
+ArtOfUnitTesting2ndEd.Samples/.vs/ArtOfUnitTesting2ndEd.Samples/v15/Server/sqlite3/storage.ide-shm
+ArtOfUnitTesting2ndEd.Samples/.vs/ArtOfUnitTesting2ndEd.Samples/v15/Server/sqlite3/storage.ide
+ArtOfUnitTesting2ndEd.Samples/.vs/ArtOfUnitTesting2ndEd.Samples/v15/Server/sqlite3/db.lock
