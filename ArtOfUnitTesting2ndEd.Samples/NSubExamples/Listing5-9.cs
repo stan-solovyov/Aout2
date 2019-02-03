@@ -14,8 +14,8 @@ namespace NSubExamples
         {
             _view = view;
             _log = log;
-            this._view.Loaded += OnLoaded;
-            this._view.ErrorOccured += OnError;
+            _view.Loaded += OnLoaded;
+            _view.ErrorOccured += OnError;
 
         }
 

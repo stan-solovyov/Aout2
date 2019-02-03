@@ -12,6 +12,7 @@ namespace Chapter1.ConsoleApp
             try
             {
                 SimpleParserTests.TestReturnsZeroWhenEmptyString();
+                Console.ReadKey();
             }
             catch (Exception e)
             {

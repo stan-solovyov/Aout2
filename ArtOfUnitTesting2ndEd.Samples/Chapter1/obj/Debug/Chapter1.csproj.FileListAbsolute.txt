@@ -17,3 +17,11 @@ D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.dll
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.pdb
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.dll
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.pdb
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\nunit.framework.dll
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\nunit.framework.xml
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csproj.CoreCompileInputs.cache
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csproj.CopyComplete
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
+C:\Users\drow1\source\repos\Aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb

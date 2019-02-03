@@ -12,6 +12,7 @@ namespace NSubExamples
         public void SubstituteFor_ForInterfaces_ReturnsAFakeInterface()
         {
             IFileNameRules fakeRules = Substitute.For<IFileNameRules>();
+            var result = fakeRules.IsValidLogFileName("something.bla");
 
             Assert.IsFalse(fakeRules.IsValidLogFileName("something.bla"));
         }
@@ -21,8 +22,9 @@ namespace NSubExamples
             IFileNameRules fakeRules = Substitute.For<IFileNameRules>();
 
             fakeRules.IsValidLogFileName(Arg.Any<string>()).Returns(true);
-              
-            Assert.IsTrue(fakeRules.IsValidLogFileName("anything, really"));
+            var result = fakeRules.IsValidLogFileName("anything, really");
+
+            Assert.True(fakeRules.IsValidLogFileName("anything, really"));
         }
         
         [Test]
